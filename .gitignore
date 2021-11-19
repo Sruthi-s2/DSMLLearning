@@ -1,3 +1,4 @@
 *.log
-dir/
+/dir/
 static/dir
+Myexcel.xlsx
